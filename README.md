@@ -15,7 +15,7 @@
 	{
 		"improvement": "1",
 		"point1": "920",
-	  "color": "#00FFFF",
+	  "color": "#8cc53e",
 		"documentID": "c94c2177-9e80-4555-9cfd-92a29cbd40a7",
 		"point2": "420"
 
